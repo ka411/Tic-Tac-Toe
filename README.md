@@ -43,4 +43,14 @@ Edit
 python main.py
 For Web: Open index.html in your browser.
 
+📚 Learning Outcomes
+Implementing game logic & condition checking
+
+Handling user inputs and updating game state
+
+Designing a simple, maintainable project structure
+
+
+
+
 
