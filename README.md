@@ -20,4 +20,26 @@ Interface: CLI / Web-based (mention which one)
 Logic: Array-based board representation & simple AI logic (if added)
 
 
+🚀 How to Run
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/tic-tac-toe.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd tic-tac-toe
+Run the game:
+
+For Python:
+
+bash
+Copy
+Edit
+python main.py
+For Web: Open index.html in your browser.
 
