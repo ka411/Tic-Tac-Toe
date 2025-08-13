@@ -8,7 +8,7 @@ Win detection – Automatically checks for wins, losses, and draws.
 
 Responsive UI – Works smoothly on different screen sizes (if applicable).
 
-Replay option – Start a new game without refreshing.
+Replay option – Start a new game without needing to refresh.
 
 Clean code structure – Easy to read, extend, and maintain.
 
@@ -42,4 +42,5 @@ Copy
 Edit
 python main.py
 For Web: Open index.html in your browser.
+
 
